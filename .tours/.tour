@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "タイマーの実装",
+  "steps": [
+    {
+      "file": "src/components/worktimer.tsx",
+      "description": "React.FCは関数コンポーネント型という型を表している",
+      "line": 3
+    },
+    {
+      "file": "src/components/worktimer.tsx",
+      "description": "useEffect　Effectは副作用、つまり（アプリの）状態の更新のことを指している",
+      "line": 7
+    }
+  ]
+}
